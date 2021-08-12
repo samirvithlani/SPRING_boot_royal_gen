@@ -1,0 +1,87 @@
+Framework :  angular,spring,.....
+
+Framework is predefine architure built on existing tech,programming language  and we have to just re use this....
+
+
+core java :- Collections 
+
+Collection Farmework:
+
+
+Library :  react...
+
+:-
+
+Modules: 
+
+                                            EMployeeMangement Systen
+
+							Login,SignUpModule,Task..,payroll,leave
+
+							Header,Footer
+
+					    Admin Moduke ,,Dashboard
+
+component....
+
+
+reuse
+
+
+
+Moduler Arch   -->
+Molothic arch  -->
+
+
+SPA ->SIngle page application :-
+--------------------------------
+
+Only View page ->alll component wil br override there ....    
+once you change URL   page should not be refresh...
+
+
+
+SEO  -->search engine optimization
+----------------------------------
+len -->
+---------------------------------
+security
+---------------------------------
+errors.
+--------------------------------
+loading time...
+-------------------------------
+REACT SPA  --> Why ??? 
+
+React is develope on top of JS  Developed by facebook   ---->
+
+Node js... system --->
+
+Visual studio code...
+-----------------------
+NPX -->NODE PACkage execute..
+command   -->   npx create-react-appname
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
